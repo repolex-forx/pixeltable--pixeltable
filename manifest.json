@@ -5,8 +5,8 @@
   "versions": [
     {
       "commit": "da7f924c59436d0f2599f4022fbe7940e7015c99",
-      "parsed_at": "2026-03-19T20:26:50.691849+00:00",
-      "tag": "v0.5.22",
+      "parsed_at": "2026-03-19T22:07:40.196167+00:00",
+      "tag": "release",
       "filetree": "filetree/da7f924c59436d0f2599f4022fbe7940e7015c99.nq.gz",
       "blobs": [
         "blob/b0856825ef039b2603e5a1e8b10adfa03c208bb3.nq.gz",
@@ -1292,6 +1292,7 @@
         "blob/972985db85372ec8857ab1bf79263342ade5962a.nq.gz",
         "blob/b3c542b37d8df3e57cd5bf2bcd4b0508d88e027f.nq.gz",
         "blob/ae47f1c6f4e5563b4610c3945fbf1a5bb95cf9ff.nq.gz",
+        "blob/294fc41a530c729f504028268e3a6fba9a4658b3.nq.gz",
         "blob/55237d7c15f212e99e1201350e53e73173855d07.nq.gz",
         "blob/8dddc7999be46f4251e34abaf09920b4c6b3a964.nq.gz",
         "blob/68c9b0c31e5a6eb9df25fa73ae8920dcd28da3d2.nq.gz",
@@ -2407,6 +2408,7 @@
         "blob/6f18f609341d0255e85e500e31a074ae0def4c3e.nq.gz",
         "blob/6a98b80caec93b0627838f4094aa038a729ad10e.nq.gz",
         "blob/b7c1d04f3f5a364a72e4516d7e2c168c0c63560e.nq.gz",
+        "blob/c1b8d5b97cdcdfb0f79c8ef2f4cb754745b1824f.nq.gz",
         "blob/5849305d99dcfeb7774e9a4d78da2b589c5a4440.nq.gz",
         "blob/7ae20b9a37d8952f8ab0f3c1b06c018209d9b9a4.nq.gz",
         "blob/f695f178a8f5241988f8f1f149552c736a0f48d5.nq.gz",
