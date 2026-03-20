@@ -36046,6 +36046,184 @@
         "blob/f6b3445ff4a089a7bf8f21c07daffa85b697d37a.nq.gz",
         "blob/e6bafa6240e35f6c1bafe927a67802451ade05dd.nq.gz",
         "blob/05a118d05acabe401d425175f14b4ed0fb0c201b.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/5156928447daae5e0cb830dee1ca147fdf92cac6.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/5156928447daae5e0cb830dee1ca147fdf92cac6.nq.gz",
+      "repolex": "aggregate/repolex/5156928447daae5e0cb830dee1ca147fdf92cac6.nq.gz",
+      "dep": "dep/5156928447daae5e0cb830dee1ca147fdf92cac6.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "mistune",
+          "githubOrg": "lepture",
+          "githubRepo": "mistune"
+        },
+        {
+          "packageName": "pixeltable",
+          "githubOrg": "pixeltable",
+          "githubRepo": "pixeltable"
+        },
+        {
+          "packageName": "pycocotools",
+          "githubOrg": "ppwwyyxx",
+          "githubRepo": "cocoapi"
+        },
+        {
+          "packageName": "IPython",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "pyarrow",
+          "githubOrg": "apache",
+          "githubRepo": "arrow"
+        },
+        {
+          "packageName": "tqdm",
+          "githubOrg": "tqdm",
+          "githubRepo": "tqdm"
+        },
+        {
+          "packageName": "datasets",
+          "githubOrg": "huggingface",
+          "githubRepo": "datasets"
+        },
+        {
+          "packageName": "transformers",
+          "githubOrg": "huggingface",
+          "githubRepo": "transformers"
+        },
+        {
+          "packageName": "sqlalchemy",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy"
+        },
+        {
+          "packageName": "sentence-transformers",
+          "githubOrg": "huggingface",
+          "githubRepo": "sentence-transformers"
+        },
+        {
+          "packageName": "tenacity",
+          "githubOrg": "jd",
+          "githubRepo": "tenacity"
+        },
+        {
+          "packageName": "ftfy",
+          "githubOrg": "rspeer",
+          "githubRepo": "python-ftfy"
+        },
+        {
+          "packageName": "boto3",
+          "githubOrg": "boto",
+          "githubRepo": "boto3"
+        },
+        {
+          "packageName": "cloudpickle",
+          "githubOrg": "cloudpipe",
+          "githubRepo": "cloudpickle"
+        },
+        {
+          "packageName": "fireworks",
+          "githubOrg": "materialsproject",
+          "githubRepo": "fireworks"
+        },
+        {
+          "packageName": "fitz",
+          "githubOrg": "kastman",
+          "githubRepo": "fitz"
+        },
+        {
+          "packageName": "av",
+          "githubOrg": "PyAV-Org",
+          "githubRepo": "PyAV"
+        },
+        {
+          "packageName": "openai",
+          "githubOrg": "openai",
+          "githubRepo": "openai-python"
+        },
+        {
+          "packageName": "together",
+          "githubOrg": "togethercomputer",
+          "githubRepo": "together-py"
+        },
+        {
+          "packageName": "whisperx",
+          "githubOrg": "m-bain",
+          "githubRepo": "whisperx"
+        },
+        {
+          "packageName": "botocore",
+          "githubOrg": "boto",
+          "githubRepo": "botocore"
+        },
+        {
+          "packageName": "toml",
+          "githubOrg": "uiri",
+          "githubRepo": "toml"
+        },
+        {
+          "packageName": "pandas",
+          "githubOrg": "pandas-dev",
+          "githubRepo": "pandas"
+        },
+        {
+          "packageName": "griffe",
+          "githubOrg": "mkdocstrings",
+          "githubRepo": "griffe"
+        },
+        {
+          "packageName": "yolox",
+          "githubOrg": "Megvii-BaseDetection",
+          "githubRepo": "YOLOX"
+        },
+        {
+          "packageName": "spacy",
+          "githubOrg": "explosion",
+          "githubRepo": "spaCy"
+        },
+        {
+          "packageName": "tiktoken",
+          "githubOrg": "openai",
+          "githubRepo": "tiktoken"
+        },
+        {
+          "packageName": "label-studio-sdk",
+          "githubOrg": "HumanSignal",
+          "githubRepo": "label-studio-sdk"
+        },
+        {
+          "packageName": "anthropic",
+          "githubOrg": "anthropics",
+          "githubRepo": "anthropic-sdk-python"
+        },
+        {
+          "packageName": "more-itertools",
+          "githubOrg": "more-itertools",
+          "githubRepo": "more-itertools"
+        },
+        {
+          "packageName": "pgvector",
+          "githubOrg": "pgvector",
+          "githubRepo": "pgvector-python"
+        },
+        {
+          "packageName": "torchvision",
+          "githubOrg": "pytorch",
+          "githubRepo": "vision"
+        },
+        {
+          "packageName": "jmespath",
+          "githubOrg": "jmespath",
+          "githubRepo": "jmespath.py"
+        }
       ]
     },
     {
