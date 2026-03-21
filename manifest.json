@@ -46401,6 +46401,139 @@
         "blob/f6b3445ff4a089a7bf8f21c07daffa85b697d37a.nq.gz",
         "blob/e6bafa6240e35f6c1bafe927a67802451ade05dd.nq.gz",
         "blob/05a118d05acabe401d425175f14b4ed0fb0c201b.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/07e73e981ca77a520f1f15b8cd751f6aa7081ef1.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/07e73e981ca77a520f1f15b8cd751f6aa7081ef1.nq.gz",
+      "repolex": "aggregate/repolex/07e73e981ca77a520f1f15b8cd751f6aa7081ef1.nq.gz",
+      "dep": "dep/07e73e981ca77a520f1f15b8cd751f6aa7081ef1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pixeltable",
+          "githubOrg": "pixeltable",
+          "githubRepo": "pixeltable"
+        },
+        {
+          "packageName": "toml",
+          "githubOrg": "uiri",
+          "githubRepo": "toml"
+        },
+        {
+          "packageName": "transformers",
+          "githubOrg": "huggingface",
+          "githubRepo": "transformers"
+        },
+        {
+          "packageName": "jmespath",
+          "githubOrg": "jmespath",
+          "githubRepo": "jmespath.py"
+        },
+        {
+          "packageName": "IPython",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython"
+        },
+        {
+          "packageName": "av",
+          "githubOrg": "PyAV-Org",
+          "githubRepo": "PyAV"
+        },
+        {
+          "packageName": "boto3",
+          "githubOrg": "boto",
+          "githubRepo": "boto3"
+        },
+        {
+          "packageName": "sqlalchemy",
+          "githubOrg": "sqlalchemy",
+          "githubRepo": "sqlalchemy"
+        },
+        {
+          "packageName": "sentence-transformers",
+          "githubOrg": "huggingface",
+          "githubRepo": "sentence-transformers"
+        },
+        {
+          "packageName": "pandas",
+          "githubOrg": "pandas-dev",
+          "githubRepo": "pandas"
+        },
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "botocore",
+          "githubOrg": "boto",
+          "githubRepo": "botocore"
+        },
+        {
+          "packageName": "cloudpickle",
+          "githubOrg": "cloudpipe",
+          "githubRepo": "cloudpickle"
+        },
+        {
+          "packageName": "tqdm",
+          "githubOrg": "tqdm",
+          "githubRepo": "tqdm"
+        },
+        {
+          "packageName": "tiktoken",
+          "githubOrg": "openai",
+          "githubRepo": "tiktoken"
+        },
+        {
+          "packageName": "fireworks",
+          "githubOrg": "materialsproject",
+          "githubRepo": "fireworks"
+        },
+        {
+          "packageName": "together",
+          "githubOrg": "togethercomputer",
+          "githubRepo": "together-py"
+        },
+        {
+          "packageName": "pgserver",
+          "githubOrg": "orm011",
+          "githubRepo": "pgserver"
+        },
+        {
+          "packageName": "torchvision",
+          "githubOrg": "pytorch",
+          "githubRepo": "vision"
+        },
+        {
+          "packageName": "pgvector",
+          "githubOrg": "pgvector",
+          "githubRepo": "pgvector-python"
+        },
+        {
+          "packageName": "sqlalchemy-utils",
+          "githubOrg": "kvesteri",
+          "githubRepo": "sqlalchemy-utils"
+        },
+        {
+          "packageName": "pycocotools",
+          "githubOrg": "ppwwyyxx",
+          "githubRepo": "cocoapi"
+        },
+        {
+          "packageName": "spacy",
+          "githubOrg": "explosion",
+          "githubRepo": "spaCy"
+        },
+        {
+          "packageName": "openai",
+          "githubOrg": "openai",
+          "githubRepo": "openai-python"
+        },
+        {
+          "packageName": "mistune",
+          "githubOrg": "lepture",
+          "githubRepo": "mistune"
+        }
       ]
     },
     {
