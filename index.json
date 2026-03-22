@@ -1,5 +1,11 @@
 {
   "org": "pixeltable",
   "repo": "pixeltable",
-  "versions": []
+  "versions": [
+    {
+      "commit": "4ced0d7ffaa88166207ece6cbae9e65e2be8e6de",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
