@@ -1,0 +1,365 @@
+{
+  "commit": "75275ece7ee7b941d500fe75be8ca66d749a558d",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/75275ece7ee7b941d500fe75be8ca66d749a558d.nq.gz",
+      "size_bytes": 14835183
+    },
+    "dep": {
+      "path": "dep/75275ece7ee7b941d500fe75be8ca66d749a558d.nq.gz",
+      "size_bytes": 4643
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "pixeltable",
+      "packageVersion": "0.5.9",
+      "githubOrg": "pixeltable",
+      "githubRepo": "pixeltable",
+      "githubCommit": "2f78d30ff4bb3d14dbec9fc5d26d97804eacb538"
+    },
+    {
+      "packageName": "fastapi",
+      "packageVersion": "0.99.1",
+      "githubOrg": "tiangolo",
+      "githubRepo": "fastapi",
+      "githubCommit": "dd4e78ca7b09abdf0d4646fe4697316c021a8b2e"
+    },
+    {
+      "packageName": "dotenv",
+      "packageVersion": "0.9.9",
+      "githubOrg": "pedroburon",
+      "githubRepo": "dotenv",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "datasets",
+      "packageVersion": "4.8.3",
+      "githubOrg": "huggingface",
+      "githubRepo": "datasets",
+      "githubCommit": "d4942e286902ac9c39faf299cb9d7596b75c709c"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+    },
+    {
+      "packageName": "openai",
+      "packageVersion": "2.9.0",
+      "githubOrg": "openai",
+      "githubRepo": "openai-python",
+      "githubCommit": "dc7602151b9042891ccd5042c7be3881337368e5"
+    },
+    {
+      "packageName": "pyarrow",
+      "packageVersion": "9.0.0",
+      "githubOrg": "apache",
+      "githubRepo": "arrow",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "sqlalchemy",
+      "packageVersion": "2.1.0b1",
+      "githubOrg": "sqlalchemy",
+      "githubRepo": "sqlalchemy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "transformers",
+      "packageVersion": "5.3.0",
+      "githubOrg": "huggingface",
+      "githubRepo": "transformers",
+      "githubCommit": "aad13b87ed59f2afcfaebc985f403301887a35fc"
+    },
+    {
+      "packageName": "tqdm",
+      "packageVersion": "4.9.0",
+      "githubOrg": "tqdm",
+      "githubRepo": "tqdm",
+      "githubCommit": "a65e34751843141527b0af76f8133be7e92fa043"
+    },
+    {
+      "packageName": "puremagic",
+      "packageVersion": "2.1.0",
+      "githubOrg": "cdgriffith",
+      "githubRepo": "puremagic",
+      "githubCommit": "22a17be9f54c92989a69d31354fc234fb368b174"
+    },
+    {
+      "packageName": "ollama",
+      "packageVersion": "0.6.1",
+      "githubOrg": "ollama",
+      "githubRepo": "ollama-python",
+      "githubCommit": "0008226fda83c7b0c6722844313a5adfae30001c"
+    },
+    {
+      "packageName": "toml",
+      "packageVersion": "0.9.6",
+      "githubOrg": "uiri",
+      "githubRepo": "toml",
+      "githubCommit": "d31df32683212274a83e79736c143cc388796b49"
+    },
+    {
+      "packageName": "sentence-transformers",
+      "packageVersion": "5.3.0",
+      "githubOrg": "huggingface",
+      "githubRepo": "sentence-transformers",
+      "githubCommit": "ce48ecc77f8c7ed97c8fcc3cd99fde6071206680"
+    },
+    {
+      "packageName": "pydantic",
+      "packageVersion": "2.9.2",
+      "githubOrg": "pydantic",
+      "githubRepo": "pydantic",
+      "githubCommit": "7cedbfb03df82ac55c844c97e6f975359cb51bb9"
+    },
+    {
+      "packageName": "griffe",
+      "packageVersion": "2.0.0",
+      "githubOrg": "mkdocstrings",
+      "githubRepo": "griffe",
+      "githubCommit": "bc86dc3d06487330d0327ed1814a0bbd9513bb60"
+    },
+    {
+      "packageName": "fitz",
+      "packageVersion": "0.0.1.dev2",
+      "githubOrg": "kastman",
+      "githubRepo": "fitz",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tenacity",
+      "packageVersion": "9.1.4",
+      "githubOrg": "jd",
+      "githubRepo": "tenacity",
+      "githubCommit": "d4e868d6b8368c00b5a1fad54de36c2c8c3a0fb3"
+    },
+    {
+      "packageName": "uvicorn",
+      "packageVersion": "0.9.1",
+      "githubOrg": "encode",
+      "githubRepo": "uvicorn",
+      "githubCommit": "94aec709ce6dcd5fb9a78f33caa0c593161c48a8"
+    },
+    {
+      "packageName": "typing-extensions",
+      "packageVersion": "4.9.0rc1",
+      "githubOrg": "python",
+      "githubRepo": "typing_extensions",
+      "githubCommit": "f82d6367f3ff8f16b6291de06394ec6b9318bfc3"
+    },
+    {
+      "packageName": "mypy",
+      "packageVersion": "1.9.0",
+      "githubOrg": "python",
+      "githubRepo": "mypy",
+      "githubCommit": "5ff46f8b3706d005fabab2227ec84476d605bfd4"
+    },
+    {
+      "packageName": "tiktoken",
+      "packageVersion": "0.9.0",
+      "githubOrg": "openai",
+      "githubRepo": "tiktoken",
+      "githubCommit": "e35ab0915e37b919946b70947f1d0854196cb72c"
+    },
+    {
+      "packageName": "label-studio-sdk",
+      "packageVersion": "2.0.9",
+      "githubOrg": "HumanSignal",
+      "githubRepo": "label-studio-sdk",
+      "githubCommit": "f3b8a601fe0b2d36a6a0f20f8c716b77ccb077b9"
+    },
+    {
+      "packageName": "boto3",
+      "packageVersion": "1.9.99",
+      "githubOrg": "boto",
+      "githubRepo": "boto3",
+      "githubCommit": "1d0748aa7fa325d9917afca1e633743b77f0fc11"
+    },
+    {
+      "packageName": "IPython",
+      "packageVersion": "9.9.0",
+      "githubOrg": "ipython",
+      "githubRepo": "ipython",
+      "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+    },
+    {
+      "packageName": "jsonschema",
+      "packageVersion": "4.9.1",
+      "githubOrg": "python-jsonschema",
+      "githubRepo": "jsonschema",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "discord",
+      "packageVersion": "2.3.2",
+      "githubOrg": "Rapptz",
+      "githubRepo": "discord.py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "yolox",
+      "packageVersion": "0.3.0",
+      "githubOrg": "Megvii-BaseDetection",
+      "githubRepo": "YOLOX",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pandas",
+      "packageVersion": "3.0.1",
+      "githubOrg": "pandas-dev",
+      "githubRepo": "pandas",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "av",
+      "packageVersion": "9.2.0",
+      "githubOrg": "PyAV-Org",
+      "githubRepo": "PyAV",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "spacy",
+      "packageVersion": "4.0.0.dev3",
+      "githubOrg": "explosion",
+      "githubRepo": "spaCy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "together",
+      "packageVersion": "2.5.0",
+      "githubOrg": "togethercomputer",
+      "githubRepo": "together-py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "anthropic",
+      "packageVersion": "0.9.0",
+      "githubOrg": "anthropics",
+      "githubRepo": "anthropic-sdk-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "message-formatter",
+      "packageVersion": "0.1.1",
+      "githubOrg": "manidasari27",
+      "githubRepo": "message_formatter",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "more-itertools",
+      "packageVersion": "9.1.0",
+      "githubOrg": "more-itertools",
+      "githubRepo": "more-itertools",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "jmespath",
+      "packageVersion": "1.1.0",
+      "githubOrg": "jmespath",
+      "githubRepo": "jmespath.py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "ftfy",
+      "packageVersion": "6.3.1",
+      "githubOrg": "rspeer",
+      "githubRepo": "python-ftfy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "filelock",
+      "packageVersion": "3.9.1",
+      "githubOrg": "tox-dev",
+      "githubRepo": "py-filelock",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "cloudpickle",
+      "packageVersion": "3.1.2",
+      "githubOrg": "cloudpipe",
+      "githubRepo": "cloudpickle",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "mistralai",
+      "packageVersion": "2.1.2",
+      "githubOrg": "mistralai",
+      "githubRepo": "client-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pgvector",
+      "packageVersion": "0.4.2",
+      "githubOrg": "pgvector",
+      "githubRepo": "pgvector-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "whisperx",
+      "packageVersion": "3.8.2",
+      "githubOrg": "m-bain",
+      "githubRepo": "whisperx",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "replicate",
+      "packageVersion": "2.0.0b4",
+      "githubOrg": "replicate",
+      "githubRepo": "replicate-python-beta",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "fireworks",
+      "packageVersion": "2.1.2",
+      "githubOrg": "materialsproject",
+      "githubRepo": "fireworks",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "torchvision",
+      "packageVersion": "0.9.1",
+      "githubOrg": "pytorch",
+      "githubRepo": "vision",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pycocotools",
+      "packageVersion": "2.0.9",
+      "githubOrg": "ppwwyyxx",
+      "githubRepo": "cocoapi",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "botocore",
+      "packageVersion": "1.9.9",
+      "githubOrg": "boto",
+      "githubRepo": "botocore",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "mistune",
+      "packageVersion": "3.2.0",
+      "githubOrg": "lepture",
+      "githubRepo": "mistune",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "nest-asyncio",
+      "packageVersion": "1.6.0",
+      "githubOrg": "erdewit",
+      "githubRepo": "nest_asyncio",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "constructs",
+      "packageVersion": "3.4.99",
+      "githubOrg": "aws",
+      "githubRepo": "constructs",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
