@@ -3,6 +3,11 @@
   "repo": "pixeltable",
   "versions": [
     {
+      "commit": "0bd49ac3a30aea6e7e5c55f3fdab5917e1b80f21",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "1459dd6468d769866167871cf79da06d3a4e5fb5",
       "tag": "",
       "parsed_at": ""
