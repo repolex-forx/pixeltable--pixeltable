@@ -1,0 +1,519 @@
+{
+  "commit": "f5ea33b843198820f8a9bf8026b523cb8904304b",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/f5ea33b843198820f8a9bf8026b523cb8904304b.nq.gz",
+      "size_bytes": 16079595
+    },
+    "dep": {
+      "path": "dep/f5ea33b843198820f8a9bf8026b523cb8904304b.nq.gz",
+      "size_bytes": 6778
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "numpy",
+      "packageVersion": "2.4.3",
+      "githubOrg": "numpy",
+      "githubRepo": "numpy",
+      "githubCommit": "8bcb2e72e67c343e55165e6064fe6a9dc011e954"
+    },
+    {
+      "packageName": "pandas",
+      "packageVersion": "3.0.1",
+      "githubOrg": "pandas-dev",
+      "githubRepo": "pandas",
+      "githubCommit": "e04b26f375035e5106cb913e47b6db612f4ebb11"
+    },
+    {
+      "packageName": "pillow",
+      "packageVersion": "9.5.0",
+      "githubOrg": "python-pillow",
+      "githubRepo": "Pillow",
+      "githubCommit": "204590600c6a8c5246d0564d3312abd6e6b0ed70"
+    },
+    {
+      "packageName": "pillow-heif",
+      "packageVersion": "1.3.0",
+      "githubOrg": "bigcat88",
+      "githubRepo": "pillow_heif",
+      "githubCommit": "6bffca6bada2e071418a9092e7958bcecf4652c1"
+    },
+    {
+      "packageName": "tqdm",
+      "packageVersion": "4.9.0",
+      "githubOrg": "tqdm",
+      "githubRepo": "tqdm",
+      "githubCommit": "a65e34751843141527b0af76f8133be7e92fa043"
+    },
+    {
+      "packageName": "toml",
+      "packageVersion": "0.9.6",
+      "githubOrg": "uiri",
+      "githubRepo": "toml",
+      "githubCommit": "d31df32683212274a83e79736c143cc388796b49"
+    },
+    {
+      "packageName": "jsonschema",
+      "packageVersion": "4.9.1",
+      "githubOrg": "python-jsonschema",
+      "githubRepo": "jsonschema",
+      "githubCommit": "f44effcec53ec8d24d8cfa7b338203e9a36f3d4e"
+    },
+    {
+      "packageName": "jmespath",
+      "packageVersion": "1.1.0",
+      "githubOrg": "jmespath",
+      "githubRepo": "jmespath.py",
+      "githubCommit": "6ff419a8b171d055a9bfc6904605bceb8b7a80ef"
+    },
+    {
+      "packageName": "more-itertools",
+      "packageVersion": "9.1.0",
+      "githubOrg": "more-itertools",
+      "githubRepo": "more-itertools",
+      "githubCommit": "d62d233b1fefaef4effc7450a87fcace2c95fdbc"
+    },
+    {
+      "packageName": "cloudpickle",
+      "packageVersion": "3.1.2",
+      "githubOrg": "cloudpipe",
+      "githubRepo": "cloudpickle",
+      "githubCommit": "7576fff24b9769432f76cc6d2c01282583ee87a9"
+    },
+    {
+      "packageName": "psycopg",
+      "packageVersion": "3.3.3",
+      "githubOrg": "psycopg",
+      "githubRepo": "psycopg",
+      "githubCommit": "1a8f65a371da3c691111cd4a81141f2cb698eafa"
+    },
+    {
+      "packageName": "psutil",
+      "packageVersion": "7.2.2",
+      "githubOrg": "giampaolo",
+      "githubRepo": "psutil",
+      "githubCommit": "9eea97dd6f1d16ea33f5144c8925f1ce7a0688e1"
+    },
+    {
+      "packageName": "sqlalchemy",
+      "packageVersion": "2.1.0b1",
+      "githubOrg": "sqlalchemy",
+      "githubRepo": "sqlalchemy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pgvector",
+      "packageVersion": "0.4.2",
+      "githubOrg": "pgvector",
+      "githubRepo": "pgvector-python",
+      "githubCommit": "2968f258f9486531bd1340cbda4ff8fcaf06cdc1"
+    },
+    {
+      "packageName": "av",
+      "packageVersion": "9.2.0",
+      "githubOrg": "PyAV-Org",
+      "githubRepo": "PyAV",
+      "githubCommit": "4cf095390d5537f49abe83dcf97f4f8525ecbf1a"
+    },
+    {
+      "packageName": "lxml",
+      "packageVersion": "6.0.2",
+      "githubOrg": "lxml",
+      "githubRepo": "lxml",
+      "githubCommit": "283d02ec8966c0e99f4666dc7bdd936479e97246"
+    },
+    {
+      "packageName": "httpcore",
+      "packageVersion": "1.0.9",
+      "githubOrg": "encode",
+      "githubRepo": "httpcore",
+      "githubCommit": "98209758cc14e1a5f966fe1dfdc1064b94055d8c"
+    },
+    {
+      "packageName": "nest-asyncio",
+      "packageVersion": "1.6.0",
+      "githubOrg": "erdewit",
+      "githubRepo": "nest_asyncio",
+      "githubCommit": "19f396f9396bfd34b1b0caeb9b4c631ee3d7eb21"
+    },
+    {
+      "packageName": "pyyaml",
+      "packageVersion": "6.0.3",
+      "githubOrg": "yaml",
+      "githubRepo": "pyyaml",
+      "githubCommit": "49790e73684bebad1df05ef8d828fa12f685bffb"
+    },
+    {
+      "packageName": "jinja2",
+      "packageVersion": "3.1.6",
+      "githubOrg": "pallets",
+      "githubRepo": "jinja",
+      "githubCommit": "15206881c006c79667fe5154fe80c01c65410679"
+    },
+    {
+      "packageName": "tenacity",
+      "packageVersion": "9.1.4",
+      "githubOrg": "jd",
+      "githubRepo": "tenacity",
+      "githubCommit": "d4e868d6b8368c00b5a1fad54de36c2c8c3a0fb3"
+    },
+    {
+      "packageName": "puremagic",
+      "packageVersion": "2.1.0",
+      "githubOrg": "cdgriffith",
+      "githubRepo": "puremagic",
+      "githubCommit": "22a17be9f54c92989a69d31354fc234fb368b174"
+    },
+    {
+      "packageName": "pymupdf",
+      "packageVersion": "1.27.2.2",
+      "githubOrg": "pymupdf",
+      "githubRepo": "pymupdf",
+      "githubCommit": "75c04018d2a16d39d51876253dca79e94582ce3b"
+    },
+    {
+      "packageName": "ftfy",
+      "packageVersion": "6.3.1",
+      "githubOrg": "rspeer",
+      "githubRepo": "python-ftfy",
+      "githubCommit": "5340af6746ff655a9cd7cb2b50c2fd0b35bb91d3"
+    },
+    {
+      "packageName": "pydantic",
+      "packageVersion": "2.9.2",
+      "githubOrg": "pydantic",
+      "githubRepo": "pydantic",
+      "githubCommit": "7cedbfb03df82ac55c844c97e6f975359cb51bb9"
+    },
+    {
+      "packageName": "pyarrow",
+      "packageVersion": "9.0.0",
+      "githubOrg": "apache",
+      "githubRepo": "arrow",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pixeltable",
+      "packageVersion": "0.5.9",
+      "githubOrg": "pixeltable",
+      "githubRepo": "pixeltable",
+      "githubCommit": "2f78d30ff4bb3d14dbec9fc5d26d97804eacb538"
+    },
+    {
+      "packageName": "pytest",
+      "packageVersion": "9.0.2",
+      "githubOrg": "pytest-dev",
+      "githubRepo": "pytest",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "dotenv",
+      "packageVersion": "0.9.9",
+      "githubOrg": "pedroburon",
+      "githubRepo": "dotenv",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "starlette",
+      "packageVersion": "1.0.0rc1",
+      "githubOrg": "Kludex",
+      "githubRepo": "starlette",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "anthropic",
+      "packageVersion": "0.9.0",
+      "githubOrg": "anthropics",
+      "githubRepo": "anthropic-sdk-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "toml",
+      "packageVersion": "0.9.6",
+      "githubOrg": "uiri",
+      "githubRepo": "toml",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "datasets",
+      "packageVersion": "4.8.3",
+      "githubOrg": "huggingface",
+      "githubRepo": "datasets",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "typing-extensions",
+      "packageVersion": "4.9.0rc1",
+      "githubOrg": "python",
+      "githubRepo": "typing_extensions",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "spacy",
+      "packageVersion": "4.0.0.dev3",
+      "githubOrg": "explosion",
+      "githubRepo": "spaCy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tenacity",
+      "packageVersion": "9.1.4",
+      "githubOrg": "jd",
+      "githubRepo": "tenacity",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tqdm",
+      "packageVersion": "4.9.0",
+      "githubOrg": "tqdm",
+      "githubRepo": "tqdm",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "mypy",
+      "packageVersion": "1.9.0",
+      "githubOrg": "python",
+      "githubRepo": "mypy",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "cloudpickle",
+      "packageVersion": "3.1.2",
+      "githubOrg": "cloudpipe",
+      "githubRepo": "cloudpickle",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "sentence-transformers",
+      "packageVersion": "5.3.0",
+      "githubOrg": "huggingface",
+      "githubRepo": "sentence-transformers",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "fitz",
+      "packageVersion": "0.0.1.dev2",
+      "githubOrg": "kastman",
+      "githubRepo": "fitz",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "transformers",
+      "packageVersion": "5.3.0",
+      "githubOrg": "huggingface",
+      "githubRepo": "transformers",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pydantic",
+      "packageVersion": "2.9.2",
+      "githubOrg": "pydantic",
+      "githubRepo": "pydantic",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "av",
+      "packageVersion": "9.2.0",
+      "githubOrg": "PyAV-Org",
+      "githubRepo": "PyAV",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "more-itertools",
+      "packageVersion": "9.1.0",
+      "githubOrg": "more-itertools",
+      "githubRepo": "more-itertools",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "mcp",
+      "packageVersion": "1.9.4",
+      "githubOrg": "modelcontextprotocol",
+      "githubRepo": "python-sdk",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "botocore",
+      "packageVersion": "1.9.9",
+      "githubOrg": "boto",
+      "githubRepo": "botocore",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "torchvision",
+      "packageVersion": "0.9.1",
+      "githubOrg": "pytorch",
+      "githubRepo": "vision",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "uvicorn",
+      "packageVersion": "0.9.1",
+      "githubOrg": "encode",
+      "githubRepo": "uvicorn",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "openai",
+      "packageVersion": "2.9.0",
+      "githubOrg": "openai",
+      "githubRepo": "openai-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "jsonschema",
+      "packageVersion": "4.9.1",
+      "githubOrg": "python-jsonschema",
+      "githubRepo": "jsonschema",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "fastapi",
+      "packageVersion": "0.99.1",
+      "githubOrg": "tiangolo",
+      "githubRepo": "fastapi",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "label-studio-sdk",
+      "packageVersion": "2.0.9",
+      "githubOrg": "HumanSignal",
+      "githubRepo": "label-studio-sdk",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pandas",
+      "packageVersion": "3.0.1",
+      "githubOrg": "pandas-dev",
+      "githubRepo": "pandas",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "duckduckgo-search",
+      "packageVersion": "8.1.1",
+      "githubOrg": "deedy5",
+      "githubRepo": "duckduckgo_search",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "praw",
+      "packageVersion": "7.8.1",
+      "githubOrg": "praw-dev",
+      "githubRepo": "praw",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "prawcore",
+      "packageVersion": "3.0.2",
+      "githubOrg": "praw-dev",
+      "githubRepo": "prawcore",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "initialize",
+      "packageVersion": "1.1.1",
+      "githubOrg": "AngrySoilder",
+      "githubRepo": "initialize",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pycocotools",
+      "packageVersion": "2.0.9",
+      "githubOrg": "ppwwyyxx",
+      "githubRepo": "cocoapi",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pgvector",
+      "packageVersion": "0.4.2",
+      "githubOrg": "pgvector",
+      "githubRepo": "pgvector-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tiktoken",
+      "packageVersion": "0.9.0",
+      "githubOrg": "openai",
+      "githubRepo": "tiktoken",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "together",
+      "packageVersion": "2.5.0",
+      "githubOrg": "togethercomputer",
+      "githubRepo": "together-py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "mistralai",
+      "packageVersion": "2.1.2",
+      "githubOrg": "mistralai",
+      "githubRepo": "client-python",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "boto3",
+      "packageVersion": "1.9.99",
+      "githubOrg": "boto",
+      "githubRepo": "boto3",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "constructs",
+      "packageVersion": "3.4.99",
+      "githubOrg": "aws",
+      "githubRepo": "constructs",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "IPython",
+      "packageVersion": "9.9.0",
+      "githubOrg": "ipython",
+      "githubRepo": "ipython",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "filelock",
+      "packageVersion": "3.9.1",
+      "githubOrg": "tox-dev",
+      "githubRepo": "py-filelock",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "pillow-heif",
+      "packageVersion": "1.3.0",
+      "githubOrg": "bigcat88",
+      "githubRepo": "pillow_heif",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "functions",
+      "packageVersion": "0.7.0",
+      "githubOrg": "creese",
+      "githubRepo": "functions",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "psycopg",
+      "packageVersion": "3.3.3",
+      "githubOrg": "psycopg",
+      "githubRepo": "psycopg",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "jmespath",
+      "packageVersion": "1.1.0",
+      "githubOrg": "jmespath",
+      "githubRepo": "jmespath.py",
+      "githubCommit": "HEAD"
+    },
+    {
+      "packageName": "tabulate",
+      "packageVersion": "0.9.0",
+      "githubOrg": "astanin",
+      "githubRepo": "python-tabulate",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
